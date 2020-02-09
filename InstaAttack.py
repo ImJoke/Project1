@@ -34,7 +34,7 @@ try :
               print ("Processing\n")
               time.sleep (3)
               print ("Maaf sepertinya nama yg Anda masukkan salah")
-              print ("Connection time out")                                                                                                            
+              print ("Connection time out")
               time.sleep (3)
               os.system("clear")
               time.sleep (1)
