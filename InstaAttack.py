@@ -27,7 +27,7 @@ try :
             os.system("clear")
             print ("Processing\n")
             time.sleep (3)
-            print ("Passwordnya adalah :\nStkGhianza")
+            print ("Passwordnya adalah :\nStkForWhile")
             os.system("exit")
           elif nama == "hosea.nath" or nama == "Hosea.nath" or nama == "hosea.Nath" :
               os.system("clear")
